@@ -1,0 +1,385 @@
+.c1 {
+    text-align: center;
+}
+body{
+    background-color: rgb(80, 0, 71);
+}
+.vas {
+    text-align: center;
+    padding: 5%;
+    background-color: rgb(60,50,60);
+    border: 10px solid white;
+    border-radius: 20px;
+    font-size: 20px;
+    box-shadow: 0 0 10px 5px #5a5a5a;
+        text-align: center;
+    }
+    body{
+        background-color: rgb(0, 0, 71);
+    }
+    .vas {
+        text-align: center;
+        padding: 5%;
+        background-color: rgb(0, 0, 71);
+        border: 10px solid white;
+        border-radius: 20px;
+        font-size: 20px;
+        box-shadow: 0 0 10px 5px #5a5a5a;
+        color: white;
+        margin: 3% 10%;
+    }
+    .aruna{
+        height: 100vh;
+    }
+    
+    table {
+        margin: 0 auto; /* Center the table horizontally */
+    }
+    
+    img {
+        width: 100px;/* Ensure images don't exceed their container width */
+        height: 100px; /* Maintain aspect ratio */
+    }
+    
+    .language-box {
+        padding: 5px;
+    }
+    
+    .kal {
+        background-color: lightgreen;
+        padding: 10px;
+        font-size: 35px;
+    }
+    h5{
+        font-size: 30px;
+    }
+    .nav-link.orange-nav {
+        color: orange !important;
+        font-size: 25px !important;
+    }
+    /* Your existing CSS */
+    
+    /* Add responsive CSS for smaller screens */
+    /* Your existing CSS */
+    
+    /* Add responsive CSS for smaller screens */
+    /* Your existing CSS */
+    
+    /* Add responsive CSS for smaller screens */
+    @media (max-width: 900px) {
+        .vas {
+            padding: 2%;
+            font-size: 16px;
+            margin: 10%;
+        }
+    
+        img {
+            width: 50px; /* Ensure images scale proportionally */
+            max-width: 50%; /* Prevent images from overflowing their containers */
+            height: 50px; /* Maintain aspect ratio */
+        }
+        .nav-link.orange-nav {
+            color: red !important;
+            font-size: 15px !important;
+        }
+    
+        h5 {
+            font-size: 15px !important; /* Apply font size to h5 and use !important to override any conflicting styles */
+        }
+    
+        .kal {
+            font-size: 15px; /* Set the font size for .kal to match the h5 size */
+        }
+    
+        table {
+            width: 100%; /* Make the table full-width on smaller screens */
+        }
+    
+        table, th, td {
+            border-collapse: collapse; /* Remove cell spacing for a cleaner look */
+        }
+    
+        th, td {
+            text-align: center; /* Center text within table cells */
+        }
+    }
+    
+    @media (max-width: 400px) {
+        .vas {
+            padding: 1%;
+            font-size: 8px;
+            margin: 5% 5% 5% 10%;
+        }
+    
+        img {
+            width: 20px; /* Ensure images scale proportionally */
+            max-width: 100%; /* Prevent images from overflowing their containers */
+            height: 20px; /* Maintain aspect ratio */
+        }
+        .nav-link.orange-nav {
+            color: orange !important;
+            font-size: 10px !important;
+        }
+        h5 {
+            font-size: 5px !important; /* Apply font size to h5 and use !important to override any conflicting styles */
+        }
+    
+        .kal {
+            font-size: 5px; /* Set the font size for .kal to match the h5 size */
+        }
+    
+        table {
+            width: 100%; /* Make the table full-width on smaller screens */
+        }
+    
+        table, th, td {
+            border-collapse: collapse; /* Remove cell spacing for a cleaner look */
+        }
+    
+        th, td {
+            text-align: center; /* Center text within table cells */
+        }
+    } {
+        text-align: center;
+    }
+    body{
+        background-color: rgb(0, 0, 71);
+    }
+    .vas {
+        text-align: center;
+        padding: 5%;
+        background-color: rgb(0, 0, 71);
+        border: 10px solid white;
+        border-radius: 20px;
+        font-size: 20px;
+        box-shadow: 0 0 10px 5px #5a5a5a;
+        color: white;
+        margin: 3% 10%;
+    }
+    .aruna{
+        height: 100vh;
+    }
+    
+    table {
+        margin: 0 auto; /* Center the table horizontally */
+    }
+    
+    img {
+        width: 100px;/* Ensure images don't exceed their container width */
+        height: 100px; /* Maintain aspect ratio */
+    }
+    
+    .language-box {
+        padding: 5px;
+    }
+    
+    .kal {
+        background-color: lightgreen;
+        padding: 10px;
+        font-size: 35px;
+    }
+    h5{
+        font-size: 30px;
+    }
+    .nav-link.orange-nav {
+        color: orange !important;
+        font-size: 25px !important;
+    }
+    /* Your existing CSS */
+    
+    /* Add responsive CSS for smaller screens */
+    /* Your existing CSS */
+    
+    /* Add responsive CSS for smaller screens */
+    /* Your existing CSS */
+    
+    /* Add responsive CSS for smaller screens */
+    @media (max-width: 900px) {
+        .vas {
+            padding: 2%;
+            font-size: 16px;
+            margin: 10%;
+        }
+    
+        img {
+            width: 50px; /* Ensure images scale proportionally */
+            max-width: 50%; /* Prevent images from overflowing their containers */
+            height: 50px; /* Maintain aspect ratio */
+        }
+        .nav-link.orange-nav {
+            color: red !important;
+            font-size: 15px !important;
+        }
+    
+        h5 {
+            font-size: 15px !important; /* Apply font size to h5 and use !important to override any conflicting styles */
+        }
+    
+        .kal {
+            font-size: 15px; /* Set the font size for .kal to match the h5 size */
+        }
+    
+        table {
+            width: 100%; /* Make the table full-width on smaller screens */
+        }
+    
+        table, th, td {
+            border-collapse: collapse; /* Remove cell spacing for a cleaner look */
+        }
+    
+        th, td {
+            text-align: center; /* Center text within table cells */
+        }
+    }
+    
+    @media (max-width: 400px) {
+        .vas {
+            padding: 1%;
+            font-size: 8px;
+            margin: 5% 5% 5% 10%;
+        }
+    
+        img {
+            width: 20px; /* Ensure images scale proportionally */
+            max-width: 100%; /* Prevent images from overflowing their containers */
+            height: 20px; /* Maintain aspect ratio */
+        }
+        .nav-link.orange-nav {
+            color: orange !important;
+            font-size: 10px !important;
+        }
+        h5 {
+            font-size: 5px !important; /* Apply font size to h5 and use !important to override any conflicting styles */
+        }
+    
+        .kal {
+            font-size: 5px; /* Set the font size for .kal to match the h5 size */
+        }
+    
+        table {
+            width: 100%; /* Make the table full-width on smaller screens */
+        }
+    
+        table, th, td {
+            border-collapse: collapse; /* Remove cell spacing for a cleaner look */
+        }
+    
+        th, td {
+            text-align: center; /* Center text within table cells */
+        }
+    }
+    color: white;
+    margin: 3% 10%;
+}
+.aruna{
+    height: 100vh;
+}
+
+table {
+    margin: 0 auto; /* Center the table horizontally */
+}
+
+img {
+    width: 100px;/* Ensure images don't exceed their container width */
+    height: 100px; /* Maintain aspect ratio */
+}
+
+.language-box {
+    padding: 5px;
+}
+
+.kal {
+    background-color: lightgreen;
+    padding: 10px;
+    font-size: 35px;
+}
+h5{
+    font-size: 30px;
+}
+.nav-link.orange-nav {
+    color: orange !important;
+    font-size: 25px !important;
+}
+/* Your existing CSS */
+
+/* Add responsive CSS for smaller screens */
+/* Your existing CSS */
+
+/* Add responsive CSS for smaller screens */
+/* Your existing CSS */
+
+/* Add responsive CSS for smaller screens */
+@media (max-width: 900px) {
+    .vas {
+        padding: 2%;
+        font-size: 16px;
+        margin: 10%;
+    }
+
+    img {
+        width: 50px; /* Ensure images scale proportionally */
+        max-width: 50%; /* Prevent images from overflowing their containers */
+        height: 50px; /* Maintain aspect ratio */
+    }
+    .nav-link.orange-nav {
+        color: red !important;
+        font-size: 15px !important;
+    }
+
+    h5 {
+        font-size: 15px !important; /* Apply font size to h5 and use !important to override any conflicting styles */
+    }
+
+    .kal {
+        font-size: 15px; /* Set the font size for .kal to match the h5 size */
+    }
+
+    table {
+        width: 100%; /* Make the table full-width on smaller screens */
+    }
+
+    table, th, td {
+        border-collapse: collapse; /* Remove cell spacing for a cleaner look */
+    }
+
+    th, td {
+        text-align: center; /* Center text within table cells */
+    }
+}
+
+@media (max-width: 400px) {
+    .vas {
+        padding: 1%;
+        font-size: 8px;
+        margin: 5% 5% 5% 10%;
+    }
+
+    img {
+        width: 20px; /* Ensure images scale proportionally */
+        max-width: 100%; /* Prevent images from overflowing their containers */
+        height: 20px; /* Maintain aspect ratio */
+    }
+    .nav-link.orange-nav {
+        color: orange !important;
+        font-size: 10px !important;
+    }
+    h5 {
+        font-size: 5px !important; /* Apply font size to h5 and use !important to override any conflicting styles */
+    }
+
+    .kal {
+        font-size: 5px; /* Set the font size for .kal to match the h5 size */
+    }
+
+    table {
+        width: 100%; /* Make the table full-width on smaller screens */
+    }
+
+    table, th, td {
+        border-collapse: collapse; /* Remove cell spacing for a cleaner look */
+    }
+
+    th, td {
+        text-align: center; /* Center text within table cells */
+}
+}
